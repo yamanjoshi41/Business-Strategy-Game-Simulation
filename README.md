@@ -1,4 +1,5 @@
 Business Strategy Game (BSG)
+
 This project showcases our team's performance in the Business Strategy Game (BSG), a competitive business simulation where teams manage a global athletic footwear company and make strategic decisions across marketing, operations, finance, production, and corporate social responsibility.
 
 🏆 Achievement
